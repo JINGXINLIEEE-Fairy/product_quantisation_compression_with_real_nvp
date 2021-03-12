@@ -34,5 +34,5 @@ export DATASET_DIR=${TMP}/datasets/
 
 
 source /home/${STUDENT_ID}/miniconda3/bin/activate ktb
-cd /home/${STUDENT_ID}/product_quantisation_compression_with_real_nvp/
+cd /home/${STUDENT_ID}/product_quantisation_compression_with_real_nvp/src/
 python test.py
